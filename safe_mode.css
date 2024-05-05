@@ -871,7 +871,7 @@ span:not(.spinner-item) {
 }
 
 #app-mount .info__755e1 .line_cdcacc:last-child:after {
-  content: "Chillax " var(--cl-appearance) " 🎮";
+  content: "safe mode" var(--cl-appearance) " 🎮";
   display: block;
 }
 
