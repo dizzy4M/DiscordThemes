@@ -201,7 +201,7 @@
 }
 
 .theme-dark .wordmark__5b8c9::before {
-  content: "‏‏‎ s a f e  m o d e";
+  content: "‏‏‎ s a f e _ m o d e";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -217,7 +217,7 @@
 }
 
 .wordmark__5b8c9:hover:before {
-  content: "‏‏‎ s a f e  m o d e";
+  content: "‏‏‎ s a f e _ m o d e";
   letter-spacing: 2px;
 }
 
