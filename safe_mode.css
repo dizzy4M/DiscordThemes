@@ -201,7 +201,7 @@
 }
 
 .theme-dark .wordmark__5b8c9::before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ s a f e  m o d e";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -871,7 +871,7 @@ span:not(.spinner-item) {
 }
 
 #app-mount .info__755e1 .line_cdcacc:last-child:after {
-  content: "safe mode" var(--cl-appearance) " 🎮";
+  content: "Chillax " var(--cl-appearance) " 🎮";
   display: block;
 }
 
